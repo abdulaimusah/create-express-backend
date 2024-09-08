@@ -1,0 +1,19 @@
+{
+  "name": "am-create-express-backend",
+  "version": "1.0.0",
+  "description": "Create a customized backend project",
+  "main": "index.js",
+  "bin": {
+    "create-custom-backend": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "template",
+    "custom"
+  ],
+  "author": "Abdul-Musah",
+  "license": "MIT"
+}
